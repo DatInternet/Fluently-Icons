@@ -8,5 +8,9 @@
   The icon font part of Fluently, based on the Fluent Design icons from Microsoft. 
 </p>
 <br>
-<h2 align="center">Getting Started</h2>
-<p align="center">For now you need to download the Github repo and host it yourself, but for the first alpha release we would have something better.Link the css like you do normally and to see the icons got to https://fluently.datinternet.nl/icon for the icon list (that would also be updated later)</p>
+<h2>Getting Started</h2>
+<p>For now you need to download the Github repo and host it yourself, but for the first alpha release we would have something better.Link the css like you do normally and to see the icons got to https://fluently.datinternet.nl/icon for the icon list (that would also be updated later)</p>
+<br>
+<h2>License</h2>
+<p>Code released under the MIT license.</p>
+
