@@ -3,4 +3,7 @@
     <img src="https://media.datinternet.nl/fluently/branding/icon_logo_colored.svg" width="375">
   </a>
 </p>
-<h3 align="center">Fluently</h3>
+<h3 align="center">Fluently Icons</h3>
+<p align="center">
+  The icon font part of Fluently, based on the Fluent Design icons from Microsoft. 
+</p>
