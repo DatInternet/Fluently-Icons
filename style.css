@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?j9xglh');
-  src:  url('fonts/icomoon.eot?j9xglh#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?j9xglh') format('truetype'),
-    url('fonts/icomoon.woff?j9xglh') format('woff'),
-    url('fonts/icomoon.svg?j9xglh#icomoon') format('svg');
+  src:  url('https://raw.githubusercontent.com/DatInternet/Fluently-Icons/master/fonts/icomoon.eot?j9xglh');
+  src:  url('https://raw.githubusercontent.com/DatInternet/Fluently-Icons/master/fonts/icomoon.eot?j9xglh#iefix') format('embedded-opentype'),
+    url('https://raw.githubusercontent.com/DatInternet/Fluently-Icons/master/fonts/icomoon.ttf?j9xglh') format('truetype'),
+    url('https://raw.githubusercontent.com/DatInternet/Fluently-Icons/master/fonts/icomoon.woff?j9xglh') format('woff'),
+    url('https://raw.githubusercontent.com/DatInternet/Fluently-Icons/master/fonts/icomoon.svg?j9xglh#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
