@@ -9,4 +9,4 @@
 </p>
 <br>
 <h2 align="center">Getting Started</h2>
-<p align="center">For now you need to download the Github repo and host it yourself, but for the first alpha release we would have something better. Link the css like you do normally and to see the icons got to https://fluently.datinternet.nl/icon for the icon list (that would also be updated later)</p>
+<p align="center">For now you need to download the Github repo and host it yourself, but for the first alpha release we would have something better.<br> Link the css like you do normally and to see the icons got to https://fluently.datinternet.nl/icon for the icon list (that would also be updated later)</p>
