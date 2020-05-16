@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://fluently.datinternet.nl">
+  <a href="https://fluently.datinternet.nl/icon">
     <img src="https://media.datinternet.nl/fluently/branding/icons_logo_colored.svg" width="375">
   </a>
 </p>
@@ -11,6 +11,6 @@
 <h2>Getting Started</h2>
 <p>For now you need to download the Github repo and host it yourself, but for the first alpha release we would have something better.Link the css like you do normally and to see the icons got to https://fluently.datinternet.nl/icon for the icon list (that would also be updated later)</p>
 <br>
-<h2>License</h2>
+<h2>License</h2>to
 <p>Code released under the MIT license.</p>
 
